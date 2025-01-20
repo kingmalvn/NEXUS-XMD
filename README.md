@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐑𝐎𝐌𝐄𝐊%20-𝐗𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐑𝐎𝐌𝐄𝐊%20𝐗𝐃..💖)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐍𝐄𝐗𝐔𝐒%20-𝐗𝐌𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐌𝐀𝐋𝐕𝐈𝐍%20𝐊𝐈𝐍𝐆..💖)
 <p align="center">
 
 </p>
@@ -10,8 +10,8 @@
 <hr>
 <hr>
 <p align="center">
-<a href="https://github.com/ROMEKTRICKS/ROMEK-XD">
-    <img src="https://files.catbox.moe/119585.jpg">
+<a href="https://github.com/kingmalvn/NEXUS-XMD">
+    <img src="https://files.catbox.moe/ktd1l4.jpg">
   </a>
 
 
@@ -58,32 +58,36 @@
 ## DEPLOYMENT METHODS
 3. ## Deploy to Koyeb ↓
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=romek-xd&type=git&repository=ROMEKTRICKS%2FROMEK-XD&branch=main&builder=dockerfile&env%5BAUTO_STATUS_REPLY%5D=true&env%5BSESSION_ID%5D=&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_REACT%5D=true&ports=8000%3Bhttp%3B%2F)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=nexus-xmd&type=git&repository=kingmalvn%2FNEXUS-XMD&branch=main&builder=dockerfile&env%5BAUTO_STATUS_REPLY%5D=true&env%5BSESSION_ID%5D=&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_REACT%5D=true&ports=8000%3Bhttp%3B%2F)
 
 4. ## Deploy to RENDER ↓
 
-<a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://telegra.ph/file/c15e952f017c10e12f431.jpg" width="100" height="20" alt="Deploy bot"/></a>
+<p align="centre">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=30/p></a>
 
 5. ## Deploy to HEROKU
 
-[![Deploy to HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ROMEKTRICKS/ROMEK-XD)
+[![Deploy to HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/NEXUS-XMD)
 
 
-
-   <a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=80 height=80></a>   
-
-|**[`ROMEK-XD`](https://github.com/ROMEKTRICKS)**|
-
-## 👑 `𝐑𝐎𝐌𝐄𝐊-𝐗𝐃 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑`👨 
+## 👑 `𝐍𝐄𝐗𝐔𝐒-𝐗𝐌𝐃 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑`👨 
 
 
-## DON'T FORGET TO TO BUY ETHIX COFFEE AND BOT UPDATES 🎉🎉
-- **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
-- and check his bot ##🚀BOT🎉[https://github.com/Ethix-Xsid/Ethix-MD-V2)
+## DON'T FORGET TO FOLLOW FOR MORE BOT UPDATES 🎉🎉
 
+   <a href="https://github.com/kingmalvn/"><img src="https://files.catbox.moe/ktd1l4.jpg" width=80 height=80></a>   
+
+|**[`NEXUS-OWNER`](https://github.com/kingmalvn)**|
+
+
+- and also check this ##🚀BOT🎉
+- below ⤵️
+  
+<a href="https://github.com/kingmalvn/MALVIN-XMD"><img src="https://files.catbox.moe/ktd1l4.jpg" width=80 height=80></a>   
+
+|**[`MALVIN-XMD`](https://github.com/kingmalvn/MALVIN-XMD)**|
  <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+ROMEK-XD" alt="Typing SVG" /></a>
-<p>---
-README.MD FILE DONT COPY </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANK+U+ALL+FOR+USING;MY+BOT+NEXUS-XMD" alt="Typing SVG" /></a>
+
