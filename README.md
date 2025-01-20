@@ -15,41 +15,49 @@
   </a>
 
 
-    
+<br>
 
-![forks](https://img.shields.io/github/forks/ROMEKTRICKS/ROMEK-XD?label=Forks&style=social)
+   </p>
+<p align="center">
+<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
 
-![stars](https://img.shields.io/github/stars/ROMEKTRICKS/ROMEK-XD?style=social)
+ <p align="center">
+<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/NEXUS-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/NEXUS-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/NEXUS-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/NEXUS-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/NEXUS-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/NEXUS-XMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/NEXUS-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/NEXUS-XMD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FNEXUS-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/kingmalvn/NEXUS-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{NEXUS-XMD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
+<p align="center">
+<a href="https://github.com/kingmalvn/NEXUS-XMD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=NEXUS-XMD&label=VIEWS&style=flat-square&color=blue" />
+</a>
+<p align="center">
+  <a href="https://github.com/kingmalvn/NEXUS-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
-
-
-
-<a href="https://https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
-
-
-
-## MY YT CHANNEL
-
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@romek-xd9) 
-
-</details>
-
-
-
-
-
-<hr>
-
-<hr>
-1. FORK THIS REPO
-
-
-<a href='https://github.com/ROMEKTRICKS/ROMEK-XD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://pair-code-l9cp.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%201-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellow' width="400" height="50" alt="Deploy bot"/></a>
+**How to deploy**
+
+**1. Fork This Repository**
+
+*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+
+  <a href="https://github.com/kingmalvn/NEXUS-XMD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-NEXUS-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+   
+**2. Second Step** 
+
+*_You will need a session ID to run the MEXUS-XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
+
+  <a
+href="https://github.com/kingmalvn/NEXUS-XMD/fork"><img title="Pair Session" src="https://img.shields.io/badge/GET-PAIRING-CODEh?color=darkblue&style=for-the-badge&logo=replit"></a>
 
 
 <hr>
@@ -91,3 +99,4 @@
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANK+U+ALL+FOR+USING;MY+BOT+NEXUS-XMD" alt="Typing SVG" /></a>
 
+<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-darkgreen" alt="📎 Join Our WhatsApp Channel" width="300"></a>
