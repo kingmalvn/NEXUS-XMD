@@ -57,7 +57,7 @@
 *_You will need a session ID to run the MEXUS-XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
   <a
-href="https://github.com/kingmalvn/NEXUS-XMD/fork"><img title="Pair Session" src="https://img.shields.io/badge/GET-PAIRING-CODEh?color=darkblue&style=for-the-badge&logo=replit"></a>
+href="https://github.com/kingmalvn/NEXUS-XMD/fork"><img title="Pair Session" src="https://img.shields.io/badge/GET-SESSION-CODEh?color=darkblue&style=for-the-badge&logo=replit"></a>
 
 
 <hr>
