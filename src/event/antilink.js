@@ -1,3 +1,11 @@
+/*
+Project Name : NEXUS XMD
+Creator      : Malvin King ( Mr Lord Malvin )
+Repo         : https//github.com/kingmalvn/NEXUS-XMD
+Support      : wa.me/263714757857
+*/
+
+
 import { serialize } from '../../lib/Serializer.js';
 
 const antilinkSettings = {}; // In-memory database to store antilink settings for each chat

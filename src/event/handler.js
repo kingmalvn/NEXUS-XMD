@@ -1,3 +1,12 @@
+/*
+Project Name : NEXUS XMD
+Creator      : Malvin King ( Mr Lord Malvin )
+Repo         : https//github.com/kingmalvn/NEXUS-XMD
+Support      : wa.me/263714757857
+*/
+
+
+
 import { serialize, decodeJid } from '../../lib/Serializer.js';
 import path from 'path';
 import fs from 'fs/promises';
