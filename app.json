@@ -1,10 +1,11 @@
 {
-  "name": "whatsapp-bot (NEXUS-XMD)",
-  "description": " Whatsapp bot.",
+  "name": "Nexus-Xmd",
+  "description": " 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 ᴍᴀʟᴠɪɴ ᴋɪɴɢ.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/kingmalvn/NEXUS-XMD",
+  "logo":"https://files.catbox.moe/ktd1l4.jpg",
+  "repository": "https://github.com/Ethix-Xsid/Ethix-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -20,7 +21,27 @@
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
       "required": false,
+      "value": "true"
+        },
+    "AUTOLIKE_STATUS": {
+      "description": "Make it true if you want bot to read and like status else leave blank",
+      "required": false,
+      "value": "true"
+    },
+    "AUTOLIKE_EMOJI": {
+      "description": "Input your custom status like emoji else leave blank to use default => 💚",
+      "required": false,
+      "value": "💚"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "make it true if you want the bot to send message after viewing status else leave blank",
+      "required": false,
       "value": ""
+    },
+    "SUDO_NUMBERS": {
+      "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
+      "required": false,
+      "value": "2263780166288,263780934873,"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
@@ -40,7 +61,7 @@
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
@@ -55,7 +76,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": "."
+      "value": ""
     }
     },
     "buildpacks": [
@@ -73,4 +94,3 @@
     }
   ]
 }
-

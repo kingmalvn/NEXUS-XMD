@@ -1,3 +1,11 @@
+/*
+Project Name : NEXUS XMD
+Creator      : Malvin King ( Mr Lord Malvin )
+Repo         : https//github.com/kingmalvn/NEXUS-XMD
+Support      : wa.me/263714757857
+*/
+
+
 import dotenv from 'dotenv';
 dotenv.config();
 
@@ -52,7 +60,7 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("NEXUS-XMD~")[1];
+    const sessdata = config.SESSION_ID.split("Joel-Md&")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
@@ -70,7 +78,7 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 NEXUS-XMD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 Nexus xmd using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
@@ -83,7 +91,7 @@ async function start() {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "NEXUS-XMD whatsapp user bot" };
+                return { conversation: "Nexus xmd  whatsapp user bot" };
             }
         });
 
@@ -95,11 +103,11 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("😃NEXUS-XMD-CONNECTED Successful️✅ JOIN FOR MORE UPDATE🥏 https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `😃NEXUS-XMD-CONNECTED Successful️✅ JOIN FOR MORE UPDATE🥏 https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z` });
+                    console.log(chalk.green("am Nexus xmd wa bot 🙃"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `am Nexus xmd wa bot🙃` });
                     initialConnection = false;
                 } else {
-                    console.log(chalk.blue("♻️ Connection reestablished after restart."));
+                    console.log(chalk.blue("♻️ Connection restablished after restart."));
                 }
             }
         });
@@ -119,7 +127,6 @@ async function start() {
         Matrix.ev.on('messages.upsert', async (chatUpdate) => {
             try {
                 const mek = chatUpdate.messages[0];
-                console.log(mek);
                 if (!mek.key.fromMe && config.AUTO_REACT) {
                     console.log(mek);
                     if (mek.message) {
@@ -131,27 +138,6 @@ async function start() {
                 console.error('Error during auto reaction:', err);
             }
         });
-        
-        Matrix.ev.on('messages.upsert', async (chatUpdate) => {
-    try {
-        const mek = chatUpdate.messages[0];
-        const fromJid = mek.key.participant || mek.key.remoteJid;
-        if (!mek || !mek.message) return;
-        if (mek.key.fromMe) return;
-        if (mek.message?.protocolMessage || mek.message?.ephemeralMessage || mek.message?.reactionMessage) return; 
-        if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.AUTO_STATUS_SEEN) {
-            await Matrix.readMessages([mek.key]);
-            
-            if (config.AUTO_STATUS_REPLY) {
-                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By NEXUS XMD;
-                await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
-            }
-        }
-    } catch (err) {
-        console.error('Error handling messages.upsert event:', err);
-    }
-});
-
     } catch (error) {
         console.error('Critical Error:', error);
         process.exit(1);
@@ -178,7 +164,7 @@ async function init() {
 init();
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('am nexus bot');
 });
 
 app.listen(PORT, () => {
